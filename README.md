@@ -14,11 +14,15 @@ This git repository is also a working Framer project that serves as an example. 
 
 ### 1. Create a Spreadsheet Using Cloudstitch
 
+<img src="http://static.cloudstitch.com/movies/cloudstitch-framer-create.gif" style="margin-left: auto; margin-right: auto; display: block; max-height: 200px; max-width: 90%" alt ="Cloudstitch Framer Module">
+
 Clone the [Framer Module Demo](https://www.cloudstitch.com/project-templates/framer-module-demo/clone) on Cloudstitch and then edit the spreadsheet created for your new project.
 
 This spreadsheet acts as the datasource that you can load from Framer.
 
 ### 1. Sync your Data with Cloudstitch
+
+<img src="http://static.cloudstitch.com/movies/snapshot.gif" style="margin-left: auto; margin-right: auto; display: block; max-height: 200px; max-width: 90%" alt ="Cloudstitch Framer Module">
 
 When you're done editing the spreadsheet, press the green **Sync with your Template** button in Cloudstitch. This makes a fresh copy of your spreadsheet available over Cloudstitch's API.
 
